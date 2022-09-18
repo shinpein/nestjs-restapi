@@ -154,6 +154,7 @@ passport：認証機能を扱うためのライブラリ
 passport-jwt：jwt で認証機能を扱うためのライブラリ
 bcrypt：パスワードをハッシュ化するためのライブラリ
 class-validator：フォーム入力値のバリデーションライブラリ
+class-transformer：
 @types/～：typescript 用の型
 
 ```bash
